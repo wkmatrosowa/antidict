@@ -14,6 +14,8 @@ HSE 2019-2020
 
 Куратор: Варвара Магомедова
 
+[Техническое задание на проект](https://docs.google.com/document/d/1fpn72q8bKqhFnCaTmbqGZEtWS6WcXIP9WC1VpviAGEc/edit#)
+
 ## Цели и задачи проекта на 2019-2020 учебный год
 
 ### Цель 1 (академическая). 
