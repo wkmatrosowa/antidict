@@ -6,3 +6,4 @@ https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tut
 
 https://drive.google.com/file/d/103JsyDMN-n_P9DDe4zc-t4BkqZM6vAs7/view
 
+Ссылки на остальные датасеты будут добавлены позднее
