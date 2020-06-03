@@ -1,3 +1,0 @@
-Туториал по rusvectores
-
-https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb
