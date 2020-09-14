@@ -72,5 +72,5 @@ HSE 2019-2020
 [Научная статья](https://docs.google.com/document/d/1emjyoURAS04NAJ9B-wf-T4BE5FbthulvbPZq59v0igo/edit#), которую мы написали по итогу работы, – описание заимствований, экспрессивных форм и слов с искажениями, выявленных в данных, а также методов, использованных для их классификации.
 
 ## Датасеты
-[Слова с искажениями](https://drive.google.com/file/d/103JsyDMN-n_P9DDe4zc-t4BkqZM6vAs7/view)
+[Слова с искажениями](https://drive.google.com/file/d/103JsyDMN-n_P9DDe4zc-t4BkqZM6vAs7/view) <br>
 [Слова, классифицированные как англицизмы](https://raw.githubusercontent.com/wksmirnowa/antidict/master/Data/anglicisms.csv)
