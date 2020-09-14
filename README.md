@@ -73,3 +73,4 @@ HSE 2019-2020
 
 ## Датасеты
 [Слова с искажениями](https://drive.google.com/file/d/103JsyDMN-n_P9DDe4zc-t4BkqZM6vAs7/view)
+[Слова, классифицированные как англицизмы](https://raw.githubusercontent.com/wksmirnowa/antidict/master/Data/anglicisms.csv)
